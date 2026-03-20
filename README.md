@@ -64,32 +64,6 @@ Me caracterizo por ser autodidacta, proactivo y orientado a la resolución de pr
 
 <hr>
 
-<h2>💼 Experiencia</h2>
-
-<h3>🏢 Servicios Telepro PFS (2023 - Actualidad)</h3>
-<ul>
-  <li>Desarrollo de soluciones empresariales</li>
-  <li>CRUD completo</li>
-  <li>Diseño de BD (SP, triggers, vistas)</li>
-  <li>Integración con SFTP</li>
-</ul>
-
-<h3>🏢 Grupo Krafir (2022 - 2023)</h3>
-<ul>
-  <li>Levantamiento de requerimientos</li>
-  <li>Desarrollo Full Stack</li>
-  <li>SQL (DML, DDL)</li>
-</ul>
-
-<hr>
-
-<h2>📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JCarcamoR&show_icons=true&theme=radical"/>
-</p>
-
-<hr>
-
 <h2>📫 Contacto</h2>
 <p>
   📧 carlos.carcamor@outlook.com <br>
