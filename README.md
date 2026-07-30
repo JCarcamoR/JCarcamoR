@@ -76,3 +76,35 @@ Me caracterizo por ser autodidacta, proactivo y orientado a la resolución de pr
 <p align="center">
 ⭐ Abierto a oportunidades laborales y proyectos freelance
 </p>
+
+
+<div style="display: flex; overflow-x: auto; gap: 20px; padding: 20px; scroll-snap-type: x mandatory; max-width: 100%;">
+
+  <!-- Certificación 1 -->
+  <div style="flex: 0 0 300px; scroll-snap-align: start; background: #f0f0f0; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="URL_DE_LA_IMAGEN_CERTIFICADO_1" alt="Certificación 1" style="width: 100%; border-radius: 8px;">
+    <h3 style="text-align: center; margin: 10px 0 5px;">📜 Nombre Certificación 1</h3>
+    <p style="text-align: center; color: #666; font-size: 14px;">Emitido por: Empresa/Institución</p>
+    <p style="text-align: center; color: #888; font-size: 12px;">📅 Año de emisión</p>
+  </div>
+
+  <!-- Certificación 2 -->
+  <div style="flex: 0 0 300px; scroll-snap-align: start; background: #f0f0f0; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="URL_DE_LA_IMAGEN_CERTIFICADO_2" alt="Certificación 2" style="width: 100%; border-radius: 8px;">
+    <h3 style="text-align: center; margin: 10px 0 5px;">📜 Nombre Certificación 2</h3>
+    <p style="text-align: center; color: #666; font-size: 14px;">Emitido por: Empresa/Institución</p>
+    <p style="text-align: center; color: #888; font-size: 12px;">📅 Año de emisión</p>
+  </div>
+
+  <!-- Certificación 3 -->
+  <div style="flex: 0 0 300px; scroll-snap-align: start; background: #f0f0f0; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="URL_DE_LA_IMAGEN_CERTIFICADO_3" alt="Certificación 3" style="width: 100%; border-radius: 8px;">
+    <h3 style="text-align: center; margin: 10px 0 5px;">📜 Nombre Certificación 3</h3>
+    <p style="text-align: center; color: #666; font-size: 14px;">Emitido por: Empresa/Institución</p>
+    <p style="text-align: center; color: #888; font-size: 12px;">📅 Año de emisión</p>
+  </div>
+
+</div>
+
+<!-- Instrucción para el usuario -->
+<p align="center">🖱️ <strong>Desliza horizontalmente</strong> para ver más certificaciones</p>
